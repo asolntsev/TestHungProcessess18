@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <selenide.version>5.15.0</selenide.version>
+        <selenide.version>5.18.1</selenide.version>
         <junit.jupiter.version>5.7.0</junit.jupiter.version>
         <junit.platform.version>1.7.0</junit.platform.version>
     </properties>
